@@ -15,14 +15,10 @@ the right book and section if they want to dig.
 
 Copyrighted PDFs are cited here but never published.
 
-> **Encyclopedia (resolved 2026-10-26).** Every deck here that cites an encyclopedia draws on
-> Cheremisinoff, N.P., *Chemical Engineer's Condensed Encyclopedia of Process Equipment*, Gulf
-> Publishing, 2000 (ix + 387 pp., ISBN 0-88415-144-1; catalog record verified). Earlier slides carried
-> shortened titles, and *Absorbers* named Mead (ed.), *The Encyclopedia of Chemical Process
-> Equipment* (Reinhold, 1964) by mistake. Checked against the Mead text, which is in the library: it
-> has no Absorbers, Condensers or Compressors entry, and its Cooling Towers and Tanks, Storage
-> chapters do not match the decks. No digital copy of Cheremisinoff has been found, so its rows are
-> Print only.
+> **Encyclopedia.** Rows marked *Condensed Encyclopedia* cite Cheremisinoff, N.P., *Chemical Engineer's
+> Condensed Encyclopedia of Process Equipment*, Gulf Publishing, 2000 (ix + 387 pp., ISBN 0-88415-144-1).
+> It is the source for the *Absorbers*, *Condensers*, *Cooling Towers*, *Flow Meters* and *Storage
+> Vessels* decks. No digital copy is held, so these rows are Print only.
 
 | Topic | Source | Tier | Location |
 |---|---|---|---|
