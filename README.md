@@ -54,7 +54,8 @@ so the ranking is explainable line by line. It is not a black-box score.
 ## Sources
 
 The criteria are condensed from the author's Flow Meters presentation (linked above). That deck draws on
-standard process-instrumentation references. Pressure and temperature ratings quoted above are the deck's
+Cheremisinoff, N.P., *Chemical Engineer's Condensed Encyclopedia of Process Equipment* (Gulf, 2000;
+print only, no digital copy). Pressure and temperature ratings quoted above are the deck's
 figures for typical designs. Check them against the specific vendor.
 
 ## Limits
